@@ -8,7 +8,7 @@ st.set_page_config(page_title="UPI Fraud Detection", page_icon="🛡️", layout
 
 @st.cache_resource
 def load_bundle():
-    return joblib.load("model.pkl")
+    return joblib.load("model(1).pkl")
 
 bundle = load_bundle()
 model = bundle["model"]
