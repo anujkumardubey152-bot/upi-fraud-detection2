@@ -4,7 +4,7 @@ An ML-based UPI transaction fraud detection system that estimates fraud risk and
 
 ## 🚀 Live Demo
 
-🔗 **Streamlit App:** Add your deployed Streamlit URL here
+🔗 **Streamlit App:*https://upi-fraud-detection2-hk9hfhf3ylghebdfpb527g.streamlit.app/* 
 
 ---
 
